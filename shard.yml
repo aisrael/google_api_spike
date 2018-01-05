@@ -1,0 +1,13 @@
+name: google_api_spike
+version: 0.1.0
+
+authors:
+  - Alistair A. Israel <aisrael@gmail.com>
+
+targets:
+  google_api_spike:
+    main: src/google_api_spike.cr
+
+crystal: 0.24.1
+
+license: MIT
